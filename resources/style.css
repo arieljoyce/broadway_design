@@ -43,10 +43,16 @@ h3 {
     font-size: 30px;
     color: black;
 }
-s
 
+/* FOOTER */
 
-
-/* LINKS */
+#footer {
+    background-color:grey;
+    color:white;
+    text-align:left;
+}
+.footer-navigation{
+    font-size: 20px;
+}
 
 
